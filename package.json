@@ -1,0 +1,25 @@
+{
+  "name": "justjavascript",
+  "version": "1.0.0",
+  "description": "Codes to follow Dan Abramov´s course: Just Javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xaxim/justjavascript.git"
+  },
+  "keywords": [
+    "javascript",
+    "dan",
+    "abramov"
+  ],
+  "author": "xaxim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xaxim/justjavascript/issues"
+  },
+  "homepage": "https://github.com/xaxim/justjavascript#readme"
+}
